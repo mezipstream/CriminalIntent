@@ -1,7 +1,7 @@
 # CriminalIntent
 CriminalIntent records the details of "general crimes".
 
-Make a record of a crime including a title, a date, and a photo. Identify a suspect from your contacts and lodge a complaint via email, Twitter, Facebook, or another app.
+Make a record of a crime including a title, a date, and a photo. Identify a suspect from your contacts and lodge a complaint via email, WeChat, Twitter, Message, or another app.
 
 This project is the most important example project of the book <Android Programming(2nd edition)>. 
 
